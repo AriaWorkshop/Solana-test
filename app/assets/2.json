@@ -1,0 +1,19 @@
+{
+    "name": "Fangster",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5S6ugNAp4XZquKo6wyjABpdouPLLAMoS8dttP9SooF9E",
+          "share": 100
+        }
+      ]
+    }
+  }

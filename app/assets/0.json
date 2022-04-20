@@ -1,0 +1,19 @@
+{
+    "name": "Gm fren",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5S6ugNAp4XZquKo6wyjABpdouPLLAMoS8dttP9SooF9E",
+          "share": 100
+        }
+      ]
+    }
+  }
